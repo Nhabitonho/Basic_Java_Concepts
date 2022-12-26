@@ -1,2 +1,3 @@
 abc
 change from issue2
+Next change from issue2 to solve conflict
